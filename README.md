@@ -1,1 +1,1 @@
-# Bitcard lets you pay anywhere online using bitcoin instead of credit card. Our Chrome extension hooks your Coinbase account #to a temporary Capital One credit card number that has exactly the amount of your purchase, so after you've paid the card #expires!
+# Bitcard lets you pay anywhere online using bitcoin instead of credit card. Our Chrome extension hooks your Coinbase account to a temporary Capital One credit card number that has exactly the amount of your purchase, so after you've paid the card expires!
